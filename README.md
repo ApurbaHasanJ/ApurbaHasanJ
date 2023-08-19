@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jahid Hasan Apurba</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurbahasanj&label=Profile%20views&color=0e75b6&style=flat" alt="apurbahasanj" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://jahid-hasan-apurba-dev.netlify.app/](https://jahid-hasan-apurba-dev.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://jahid-hasan-apurba-dev.netlify.app/](https://apurbahasanj.netlify.app/)
 
 - 💬 Ask me about **React.js**
 
