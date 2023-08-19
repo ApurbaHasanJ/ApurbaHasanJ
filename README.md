@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://jahid-hasan-apurba-dev.netlify.app/](https://apurbahasanj.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://apurbahasanj.netlify.app/](https://apurbahasanj.netlify.app/)
 
 - 💬 Ask me about **React.js**
 
