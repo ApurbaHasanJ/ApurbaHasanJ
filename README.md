@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jahid Hasan Apurba</h1>
+<h1 align="center">Hi 👋, I'm Apurba Hasan J</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurbahasanj&label=Profile%20views&color=0e75b6&style=flat" alt="apurbahasanj" /> </p>
