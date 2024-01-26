@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apurbahasanj" alt="apurbahasanj" /></a> </p>
 
-- 🔭 I’m currently working on [MR Rahman](https://mr-rahman.netlify.app/) 
+- 🔭 I’m currently working on [Chomotkar](https://chomotkarfashion-67485.web.app/)) 
 
 - 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://apurbahasanj.netlify.app/](https://apurbahasanj.netlify.app/)
 
-- 💬 Ask me about **React.js**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **apurbahasanj@gmail.com**
 
