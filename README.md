@@ -1,4 +1,4 @@
-![GIF](e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif)
+![GIF](/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif)
 
 <h1 align="center">Hi 👋, I'm Apurba Hasan J</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
