@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Next.js and Redux**
 
-- 👨‍💻 All of my projects are available at [Portfolio: Apurba Hasan J](https://apurbahasanj.netlify.app/)
+- 👨‍💻 All of my projects are available at [Apurba Hasan J](https://apurbahasanj.netlify.app/)
 
 - 💬 Ask me about **MERN**
 
