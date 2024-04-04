@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apurbahasanj" alt="apurbahasanj" /></a> </p>
 
-- 🔭 I’m currently working on [Chomotkar](https://chomotkarfashion-67485.web.app/)
+- 🔭 I’m currently working on [StoreXpert](https://store-xpert.netlify.app/)
 
-- 🌱 I’m currently learning **Next.js and Redux**
+- 🌱 I’m currently learning **TypeScript, Next.js and Redux**
 
-- 👨‍💻 All of my projects are available at [https://apurbahasanj.netlify.app/](https://apurbahasanj.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio: Apurba Hasan J](https://apurbahasanj.netlify.app/)
 
 - 💬 Ask me about **MERN**
 
