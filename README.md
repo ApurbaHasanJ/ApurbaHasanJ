@@ -11,15 +11,13 @@
 
 - 🔭 I’m currently working on [StoreXpert](https://store-xpert.netlify.app/)
 
-- 🌱 I’m currently learning **TypeScript, Next.js and Redux**
+- 🌱 I’m currently learning **Backend Technologies**
 
 - 👨‍💻 All of my projects are available at [Apurba Hasan J](https://apurbahasanj.netlify.app/)
 
-- 💬 Ask me about **MERN**
-
 - 📫 How to reach me **apurbahasanj@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PjAP2123cnpKrvy_3QzftQ9LlnIfCOhd/view?usp=drive_link](https://drive.google.com/file/d/1PjAP2123cnpKrvy_3QzftQ9LlnIfCOhd/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PjAP2123cnpKrvy_3QzftQ9LlnIfCOhd/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
