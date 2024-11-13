@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Apurba Hasan J</h1>
 <h3 align="center">Tech Innovator || Founder & CEO of Skynetex || Empowering Social & Environmental Change through Advanced Technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apurbahasanj&label=Profile%20views&color=0e75b6&style=flat" alt="apurbahasanj" /> </p>
+p align="left"> <img src="https://komarev.com/ghpvc/?username=apurbahasanj&label=Profile%20views&color=0e75b6&style=flat" alt="apurbahasanj" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://apurbahasanj.github-profile-trophy.vercel.app/?username=apurbahasanj" alt="apurbahasanj" /></a> </p>
 
