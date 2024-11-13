@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurbahasanj&label=Profile%20views&color=0e75b6&style=flat" alt="apurbahasanj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://apurbahasanj.github-profile-trophy.vercel.app/?username=apurbahasanj" alt="apurbahasanj" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apurbahasanj" alt="apurbahasanj" /></a> </p>
 
 - 🔭 I’m currently working on [ZnZ Facilities](https://znzfacilities.skynetex.com/)
 
