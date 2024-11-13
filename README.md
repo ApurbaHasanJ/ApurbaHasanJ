@@ -1,23 +1,17 @@
 ![GIF](/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif)
 
 <h1 align="center">Hi 👋, I'm Apurba Hasan J</h1>
-<h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
-
-
+<h3 align="center">Tech Innovator || Founder & CEO of Skynetex || Empowering Social & Environmental Change through Advanced Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurbahasanj&label=Profile%20views&color=0e75b6&style=flat" alt="apurbahasanj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apurbahasanj" alt="apurbahasanj" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://apurbahasanj.github-profile-trophy.vercel.app/?username=apurbahasanj" alt="apurbahasanj" /></a> </p>
 
-- 🔭 I’m currently working on [StoreXpert](https://store-xpert.netlify.app/)
+- 🔭 I’m currently working on [ZnZ Facilities](https://znzfacilities.skynetex.com/)
 
-- 🌱 I’m currently learning **Backend Technologies**
-
-- 👨‍💻 All of my projects are available at [Apurba Hasan J](https://apurbahasanj.netlify.app/)
+- 🌐 Visit us at [Skynetex](https://skynetex.com/)
 
 - 📫 How to reach me **apurbahasanj@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PjAP2123cnpKrvy_3QzftQ9LlnIfCOhd/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
